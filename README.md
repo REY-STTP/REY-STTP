@@ -26,7 +26,6 @@ Here are some of the projects I'm proud of:
 
 ### 📌 A little more about me...
 ```markdown
-```markdown
 ```yaml
 {
   "askMeAbout": ["JavaScript", "Flutter", "AI"],
