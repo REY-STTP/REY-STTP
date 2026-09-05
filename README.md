@@ -122,9 +122,9 @@ class ReyvaldiZakaria:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vonssy--portfolio.web.id-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://www.vonssy-portfolio.web.id/)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-REY--STTP-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/REY-STTP)
-<br>
 [![Email](https://img.shields.io/badge/Email-rey.zakaria123@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rey.zakaria123@gmail.com)
+<br>
+[![GitHub](https://img.shields.io/badge/GitHub-REY--STTP-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/REY-STTP)
 
 </div>
 
@@ -132,10 +132,10 @@ class ReyvaldiZakaria:
 
 <div align="center">
 
-```
-  💻   The Innovator doesn't sleep — he just codes in the dark.   💡
-```
+*💻   The Innovator doesn't sleep — he just codes in the dark.   💡*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=REY-STTP&style=for-the-badge&color=0d1117&label=SOULS+ENCOUNTERED)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%" />
