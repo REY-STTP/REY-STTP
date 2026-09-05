@@ -110,7 +110,7 @@ class ReyvaldiZakaria:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vonssy/vonssy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/REY-STTP/REY-STTP/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 
 </div>
 
