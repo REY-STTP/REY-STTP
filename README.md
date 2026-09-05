@@ -1,14 +1,8 @@
 <div align="center">
- 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║         Reyvaldi Zakaria  ·  Code · AI · Create          ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
- 
-👋
+
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=Reyvaldi%20Zakaria&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18)
+
+### ☯️ Full-Stack Developer · Web3 Builder · AI Enthusiast
  
 </div>
  
@@ -20,13 +14,9 @@
 class ReyvaldiZakaria:
     name      = "Reyvaldi Zakaria"
     alias     = "REY-STTP"
-    title     = "Developer | AI Enthusiast | Full-Stack Innovator 🎓"
+    title     = "Full-Stack Developer | Web3 Builder | AI Enthusiast🎓"
     portfolio = "https://www.vonssy-portfolio.web.id/ 🌐"
-
-    focus     = ["AI", "Mobile Development", "Web Development"]
-    ask_me    = ["JavaScript", "Flutter", "AI"]
-    current   = "Facial Recognition System with Node.js"
-
+    
     hobbies   = ["Gaming", "Coding", "Learning New Technologies"]
     fun_fact  = "I started coding when I was 18!"
     status    = "🟢 Online — building something impactful"
@@ -56,56 +46,85 @@ class ReyvaldiZakaria:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| 🚀 **[To Do React App](https://github.com/REY-STTP/To-Do-React-App)** | Comprehensive task management app with React frontend & robust backend | `React` `Node.js` `JavaScript` |
-| 🎨 **[Facial Expression Detection App](https://github.com/REY-STTP/Facial-Expression-Detection-App)** | Facial recognition system using Face++ API to detect expressions in images | `Node.js` `Face++ API` `JavaScript` |
+| 🌌 **[Vonssy Terminal](https://github.com/REY-STTP/Vonssy-Terminal)** | Read-only multichain EVM wallet analytics with portfolio, asset, network allocation, and transaction activity tracking | `Next.js` `TypeScript` `Alchemy` `viem` |
+| ☁️ **[Cloud Storage App](https://github.com/REY-STTP/Cloud-Storage-App)** | Production-ready personal cloud storage with secure file management, private R2 storage, authentication, and admin analytics | `Next.js` `TypeScript` `Supabase` `Cloudflare R2` |
+| 🧠 **[Guess Your Face](https://github.com/REY-STTP/Guess-Your-Face)** | AI-powered facial analysis playground for emotion detection, face comparison, demographic analysis, and face-token inspection | `Next.js` `TypeScript` `Face++ API` `Tailwind CSS` |
+| 🎌 **[Kusoparse](https://github.com/REY-STTP/Kusoparse)** | Multilingual Kusonime parser and shortlink resolver for extracting anime metadata, episode information, and download links | `Next.js` `TypeScript` `Cheerio` `Tailwind CSS` |
+| 🤖 **[Vonssy AI](https://github.com/REY-STTP/Vonssy-AI)** | Multi-provider AI chatbot with model switching, real-time streaming, persistent conversations, OAuth authentication, and automatic gateway fallback | `Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `OpenAI SDK` |
 
 </div>
 
 ---
 
-## `> skills --list`
+## `> stack --list`
 
 <div align="center">
 
 | Domain | Stack |
 |:-------|:------|
-| 🧠 AI & Innovation | `Artificial Intelligence` `Face++ API` `Machine Learning` |
-| 🌐 Frontend | `React` `Flutter` `JavaScript` `Dart` |
-| ⚙️ Backend | `Node.js` `PHP` `SQL` `Firebase` `Python` |
-| 💻 Languages | `JavaScript` `Python` `Dart` `C` `C++` `PHP` `SQL` |
-| 🔧 Tools | `Git` `Docker` `Firebase` `VS Code` `Linux` |
-| 💡 Interests | `AI` `Mobile Development` `Web Development` |
+| 🌐 **Web Development** | `Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `shadcn/ui` |
+| 🤖 **AI & Machine Learning** | `AI` `LLM` `OpenAI SDK` `Face++ API` `AI Gateway` |
+| ⛓️ **Web3 & Blockchain** | `EVM` `Alchemy` `viem` `Ethereum` `Solana` `TON` `SUI` `Web3.py` `Ethers.js` |
+| ⚙️ **Backend & Data** | `Node.js` `Python` `PostgreSQL` `Supabase` `Drizzle ORM` `REST API` |
+| 🔍 **Automation & Scraping** | `Playwright` `Selenium` `BeautifulSoup` `Cheerio` `HTTPX` `Web Scraping` |
+| 🗄️ **Cloud & Storage** | `Cloudflare R2` `Supabase` `Vercel` `Cloud Storage` |
+| 🔐 **Auth & Security** | `OAuth` `JWT` `bcrypt` `Rate Limiting` `SSRF Protection` |
+| 🔧 **DevOps & Tools** | `Git` `Docker` `Linux` `VS Code` `Postman` |
 
 </div>
 
 ---
 
-## `> stats --verbose`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REY-STTP&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REY-STTP&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
-</div>
+## `> github --stats`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=REY-STTP&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/REY-STTP)
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=REY-STTP&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=REY-STTP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-## `> connect --follow`
+## `> github --activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=REY-STTP&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## `> github --trophies`
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=REY-STTP&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## `> contributions --animate`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vonssy/vonssy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## `> connect --all`
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vonssy--portfolio.web.id-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://www.vonssy-portfolio.web.id/)
-&nbsp;
+<br>
 [![GitHub](https://img.shields.io/badge/GitHub-REY--STTP-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/REY-STTP)
-&nbsp;
+<br>
 [![Email](https://img.shields.io/badge/Email-rey.zakaria123@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rey.zakaria123@gmail.com)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-Rey_Re-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/reyvaldi.zakaria.18)
 
 </div>
 
